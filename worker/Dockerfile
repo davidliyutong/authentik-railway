@@ -1,3 +1,3 @@
-FROM ghcr.io/goauthentik/server:2025.10.1
+FROM ghcr.io/goauthentik/server:2025.12.5
 
 CMD ["worker"]
