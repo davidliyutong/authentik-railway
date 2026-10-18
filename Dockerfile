@@ -1,3 +1,3 @@
-FROM ghcr.io/goauthentik/server:2026.2.7
+FROM ghcr.io/goauthentik/server:2026.5.7
 
 CMD ["server"]
